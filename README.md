@@ -3,6 +3,8 @@
 
 <h3>Creating Particle System:</h3>
 
+Firstly you need to download images of your particle system and import it to your project
+
 To create a particle system in Unity, follow these steps:
 
 1. Create a new Particle System GameObject by selecting `GameObject`(figure or model to which you want to bind the particle system) ->`Effects`->`Particle System`.
@@ -34,6 +36,6 @@ By combining different settings and modules, you can create a wide variety of pa
 
 ![image](https://github.com/r3ynD/Simple-Scene-Unity/assets/127958857/050ceb93-9560-4e6a-8c7a-6e345e728cf1)
 
-<h3>Particle system:</h3>
+<h3>My particle system result:</h3>
 
 <img src="https://github.com/r3ynD/Simple-Scene-Unity/assets/127958857/c021fbf8-0d05-42bd-88e7-c24fac8f5178" width=60%>
